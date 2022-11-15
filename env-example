@@ -1,0 +1,3 @@
+FORGE_CLIENT_ID="your-client-id"
+FORGE_CLIENT_SECRET="your-client-secret"
+FORGE_BUCKET="optional-name-of-existing-bucket"
